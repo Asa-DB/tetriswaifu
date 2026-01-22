@@ -9,5 +9,4 @@ A waifu-themed HTML/CSS/JS version of Tetris!
 
 ## NOTICE
 You are allowed to use my work however you like as long as it remains open-source :) Credit would also be nice!
-I'd love to see this get used for something
-pls follow gnu license
+I'd love to see this get used for something & pls follow gnu license
